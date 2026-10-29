@@ -1,0 +1,78 @@
+﻿DOSYASI BULUNAMAYAN OLCEKLER - Toplam: 18
+Not: Henuz taranmamis kayitlar bu listede degildir.
+
+1. [Sayfa 1] Anadolu Sak Zeka Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/anadolu-sak-zeka-olcegi-2/
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+2. [Sayfa 1] Atmosfer Kavram Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/atmosfer-kavram-olcegi/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=CG8WvdvvxJP04Unr7Yecf4NV04IOFI9tH3bx0HFjwRdkZLdgjuKtvdu5dz-wKXI5
+
+3. [Sayfa 1] Bakım Faktörü Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/bakim-faktoru-olcegi/
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+4. [Sayfa 1] Bilgisayar kaygı ölçeği
+   TOAD: https://toad.halileksi.net/olcek/bilgisayar-kaygi-olcegi/
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+5. [Sayfa 1] Bilime Karşı Tutum Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/bilime-karsi-tutum-olcegi/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=biL2P3cCsPgUNjVdV2BsGOArPa-lpTpZ15SYIzsq6KGWVcoLwIcXodxd-TGscAvw
+
+6. [Sayfa 1] Bilimsel Araştırmanın İlkeleri Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/bilimsel-arastirmanin-ilkeleri-olcegi/
+   Neden / hata: TOAD: https://dergipark.org.tr/tr/download/article-file/188090 (robots.txt / alan adı erişim kısıtı: dergipark.org.tr)
+
+7. [Sayfa 1] Biyoteknoloji Bilgi Testi (BBT)
+   TOAD: https://toad.halileksi.net/olcek/biyoteknoloji-bilgi-testi-bbt/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi | https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=1zw6GvYMe-q3Hf6HR-3US7u60KkaDL17uWOfD1A6DEYyIhFEniO8KcA6LVDnXI_N
+
+8. [Sayfa 2] Çevre Tutum Testi
+   TOAD: https://toad.halileksi.net/olcek/cevre-tutum-testi/
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+9. [Sayfa 3] İlköğretim Matematik Öğretmen Adayları İçin Matematiğin Doğasına Yönelik İnanç Ölçeği (MDYİÖ)
+   TOAD: https://toad.halileksi.net/olcek/ilkogretim-matematik-ogretmen-adaylari-icin-matematigin-dogasina-yonelik-inanc-olcegi-mdyio/
+   DOI: 10.17984/adyuebd.539351
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+10. [Sayfa 3] İlköğretim Öğrencilerine Yönelik Tasarım Odaklı Düşünme Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/ilkogretim-ogrencilerine-yonelik-tasarim-odakli-dusunme-olcegi-tasarimci-dusunme-olcegi/
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+11. [Sayfa 3] İlköğretimin İkinci Kademe Öğrencileri İçin Fen Bilgisi Tutum Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/ilkogretimin-ikinci-kademe-ogrencileri-icin-fen-bilgisi-tutum-olcegi/
+   DOI: 10.14783/maruoneri.703319
+   Neden / hata: TOAD: https://dergipark.org.tr/tr/download/article-file/1005086 (robots.txt / alan adı erişim kısıtı: dergipark.org.tr)
+
+12. [Sayfa 3] Kullanıcı Odaklı Bina Performans Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/kullanici-odakli-bina-performans-olcegi/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=vbVkXe1KChYWNElr1MuLZpgNwnhjBv_GZRIbsxgWApefIF4XmhI7nMMIOXiKad_H
+
+13. [Sayfa 4] Makine Öğrenimine Dayalı Akciğer Kanserinin Erken Tanısında Belirsizlik Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/makine-ogrenimine-dayali-akciger-kanserinin-erken-tanisinda-belirsizlik-olcegi/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=1pwTzRXnomYf6jwqVORfUfAx9owoAzdZ9ITjDPuUCpz-0Zy8AtU2Jrwo14E6ffYu
+
+14. [Sayfa 4] Mikroalgal Yağ Üretimi Optimizasyonu ve Ölçek Büyütme Süreçleri Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/mikroalgal-yag-uretimi-optimizasyonu-ve-olcek-buyutme-surecleri-olcegi/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=cbOXH84ZayrLjc0tI-QXKpTXNNgfbaOXQbQgkICIC2ieQOPlwHhVHZTafwAhQG3Z
+
+15. [Sayfa 4] Öğretmen Adaylarına Yönelik STEAM Tutum Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/ogretmen-adaylarina-yonelik-steam-tutum-olcegi/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=qVqOZFj2DwNmvdf1oGFYiGzFMY-iD77lgaj4xRU6q4HPUhPSuoPaC_gOjKeeqB7T
+
+16. [Sayfa 5] Teknolojinin doğası ölçeği
+   TOAD: https://toad.halileksi.net/olcek/teknolojinin-dogasi-olcegi/
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+17. [Sayfa 5] Telefon ve Oyun Bağımlılığı Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/telefon-ve-oyun-bagimliligi-olcegi/
+   DOI: 10.21076/vizyoner.431446
+   Neden / hata: Acik erisimli dosya bulunamadi
+
+18. [Sayfa 6] Yere Bağlanma Ölçeği
+   TOAD: https://toad.halileksi.net/olcek/yere-baglanma-olcegi/
+   Neden / hata: İncelenen kaynak bağlantıları: https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=LY6e5xGA7WWUpEdrBmEPLjpO3eTwJrckwLi9u6WaLuDEZ8AwMQW1_Q0pGe-v3cuk
+
